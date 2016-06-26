@@ -1,4 +1,4 @@
-# Grupo Formiga
+# Grupo Nós Formigas
 
 Nome do projeto: Formiga
 
