@@ -128,7 +128,6 @@ if ( get_option('upload_url_path') || ( get_option('upload_path') != 'wp-content
 </th>
 </tr>
 
-
 <?php do_settings_fields('media', 'uploads'); ?>
 </table>
 <?php endif; ?>
